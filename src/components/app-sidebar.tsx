@@ -22,6 +22,7 @@ import {
   SidebarGroupLabel,
 } from "@/components/ui/sidebar";
 import Link from "next/link";
+import Image from "next/image";
 import { UserButton, useUser } from "@clerk/nextjs";
 import { usePathname } from "next/navigation";
 
@@ -50,15 +51,18 @@ export function AppSidebar() {
     >
       <SidebarHeader className="p-6 border-b border-border bg-background">
         <div className="flex items-center gap-3 group-data-[collapsible=icon]:hidden">
-          <div className="flex aspect-square size-7 items-center justify-center rounded-none bg-primary text-primary-foreground">
-            <Command className="size-4" />
+          <div className="bg-white p-1 rounded-sm border border-slate-100">
+            <Image
+              src="/aphadyne.jpeg"
+              alt="Alphadyne"
+              width={24}
+              height={24}
+              className="object-contain"
+            />
           </div>
-          <span className="truncate font-bold text-foreground tracking-tighter uppercase italic text-lg">
-            Stonepeak
-            <span className="not-italic font-light text-primary">
-              {" "}
-              Partners
-            </span>
+          <span className="truncate font-bold text-foreground tracking-tight uppercase text-base">
+            Alphadyne
+            <span className="font-light text-primary"> Asset</span>
           </span>
         </div>
         <div className="group-data-[collapsible=icon]:block hidden">

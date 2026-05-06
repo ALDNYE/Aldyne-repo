@@ -7,7 +7,7 @@ export function StatsSection() {
         {/* HEADER: Large Serif Heading */}
         <div className="mb-20 max-w-4xl">
           <h2 className="text-4xl md:text-6xl font-serif text-[#001f3f] leading-[1.1] tracking-tight">
-            Why is Stonepeak well placed to capitalize on this opportunity?
+            Why is Alphadyne well placed to capitalize on this opportunity?
           </h2>
         </div>
 
@@ -15,7 +15,7 @@ export function StatsSection() {
           {/* LEFT: BODY TEXT */}
           <div className="space-y-8 max-w-xl">
             <p className="text-lg md:text-xl text-slate-700 font-light leading-relaxed">
-              Stonepeak is the world’s largest independent infrastructure
+              Alphadyne Asset Management is a leading alternative investment
               specialist. We invest in energy, transport and logistics, and
               digital infrastructure around the world – in the assets that
               underpin these global megatrends.

@@ -30,6 +30,10 @@ export default function RootLayout({
         lang="en"
         suppressHydrationWarning
       >
+        <head>
+          <link rel="icon" href="/aphadyne.jpeg" />
+          <title>Alphadyne Asset Management</title>
+        </head>
         <body
           className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
         >

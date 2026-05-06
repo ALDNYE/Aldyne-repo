@@ -675,7 +675,7 @@ function CareersLayout({ pageData }: { pageData: any }) {
                 letterSpacing: "-0.02em",
               }}
             >
-              Build Your Career at StonePeak
+              Build Your Career at Alphadyne Asset Management
             </h1>
             <p
               className="text-blue-100/60 max-w-md leading-relaxed mb-10"
@@ -742,7 +742,7 @@ function CareersLayout({ pageData }: { pageData: any }) {
             className="font-bold text-[#001a40] mb-12"
             style={{ fontSize: "clamp(1.5rem,3vw,2.2rem)" }}
           >
-            Why StonePeak?
+            Why Alphadyne Asset Management?
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {perks.map((perk, i) => (
@@ -1133,9 +1133,9 @@ function LegalLayout({ pageData }: { pageData: any }) {
             style={{ background: "#f8fafc", border: "1px solid #e5e7eb" }}
           >
             <strong className="text-[#001a40]">Regulatory Notice:</strong>{" "}
-            Stonepeak Partners (UK) LLP is authorised and regulated by the
-            Financial Conduct Authority (FCA firm reference number: 924108).
-            Registered in England and Wales, company number OC430453. Client
+            Alphadyne Asset Management (UK) LLP is authorised and regulated by the
+            Financial Conduct Authority (FCA firm reference number: 603570).
+            Registered in England and Wales, company number OC371435. Client
             funds are protected under the FSCS up to £120,000.
           </div>
         </div>
@@ -1176,7 +1176,7 @@ function Disclaimer({ name, light }: { name: string; light?: boolean }) {
         <p className="text-xs text-zinc-400 max-w-4xl leading-relaxed">
           This information regarding <strong>{name}</strong> is for professional
           investors only. Past performance is not a guarantee of future results.
-          Stonepeak Partners is authorised and regulated by the FCA. Client
+          Alphadyne Asset Management is authorised and regulated by the FCA. Client
           funds protected under the FSCS up to £120,000.
         </p>
       </div>

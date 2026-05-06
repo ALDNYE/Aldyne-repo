@@ -44,7 +44,7 @@ export default function ExpertsPage() {
           <p className="max-w-2xl text-slate-500 text-lg leading-relaxed">
             Our team brings together decades of experience from the world&apos;s
             leading financial institutions to deliver the performance edge
-            Stonepeak Partners is known for.
+            Alphadyne Asset Management is known for.
           </p>
         </div>
       </section>

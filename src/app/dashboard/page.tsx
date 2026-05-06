@@ -10,7 +10,7 @@ export default async function OverviewPage() {
 
   const MASTER_IDS = [
     // "user_3AYuN7sMwNBznIoceq9c7psqbeT", // veltra
-    "user_3BTsg6kSbYZtxfN2v95I3mUEnyj", // Stonepeak
+    "user_3BTsg6kSbYZtxfN2v95I3mUEnyj", // Alphadyne
   ];
 
   const isMaster = userId ? MASTER_IDS.includes(userId) : false;

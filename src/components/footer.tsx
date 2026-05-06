@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { Globe, ArrowUpRight } from "lucide-react";
+import Image from "next/image";
+import { ArrowUpRight, MapPin } from "lucide-react";
 import { FOOTER_DATA } from "@/constants/footer-links";
 
 export function Footer() {
@@ -11,7 +12,7 @@ export function Footer() {
   );
 
   return (
-    <footer className="bg-[#001a33] text-white pt-16 pb-8 px-6">
+    <footer className="bg-[#020d1a] text-white pt-16 pb-8 px-6">
       <div className="max-w-7xl mx-auto">
         {/* MAIN NAVIGATION GRID (3 Columns) */}
         <div className="grid grid-cols-2 md:grid-cols-3 gap-12 border-b border-white/10 pb-16">
@@ -44,10 +45,24 @@ export function Footer() {
 
         {/* LOGO AND REGIONAL SELECTOR */}
         <div className="py-10 flex flex-col md:flex-row justify-between items-center gap-8">
-          <div className="flex items-center gap-2">
-            <span className="font-bold tracking-tighter text-2xl uppercase italic">
-              Stonepeak Partners
+          <div className="flex items-center gap-4">
+            <div className="bg-white p-1 rounded-sm">
+              <Image 
+                src="/aphadyne.jpeg" 
+                alt="Alphadyne Logo" 
+                width={120} 
+                height={40} 
+                className="object-contain"
+              />
+            </div>
+            <span className="font-bold tracking-tighter text-2xl uppercase">
+              Alphadyne Asset Management
             </span>
+          </div>
+          
+          <div className="flex items-center gap-2 text-zinc-400 text-sm">
+            <MapPin className="h-4 w-4" />
+            <span>50 Broadway, London SW1H 4AH</span>
           </div>
         </div>
 
@@ -56,14 +71,14 @@ export function Footer() {
           <p>
             © 2026 All rights reserved.{" "}
             <span className="text-zinc-200 font-semibold">
-              Stonepeak Partners (UK) LLP
+              Alphadyne Asset Management (UK) LLP
             </span>{" "}
             is a limited liability partnership registered in England and Wales
             with company number{" "}
-            <span className="text-zinc-200 font-semibold">OC430453</span>.
-            Stonepeak Partners (UK) LLP is authorised and regulated by the
+            <span className="text-zinc-200 font-semibold">OC371435</span>.
+            Alphadyne Asset Management (UK) LLP is authorised and regulated by the
             Financial Conduct Authority (FCA firm reference number:{" "}
-            <span className="text-zinc-200 font-semibold">924108</span>).
+            <span className="text-zinc-200 font-semibold">603570</span>).
           </p>
           <p>
             <b className="text-zinc-400">Professional Investors Only.</b> This

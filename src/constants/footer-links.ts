@@ -64,7 +64,7 @@ We work as an extension of your team—combining investment expertise with a col
         name: "Infrastructure Opportunities",
         slug: "infrastructure-opportunities",
         content:
-          "Infrastructure sits at the heart of the global economy—powering homes, connecting communities, enabling trade, and supporting long-term economic growth. At Stonepeak Partners, we provide access to infrastructure opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.",
+          "Infrastructure sits at the heart of the global economy—powering homes, connecting communities, enabling trade, and supporting long-term economic growth. At Alphadyne Asset Management, we provide access to infrastructure opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.",
         heroImage:
           "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1400&q=80",
         timelineImages: [
@@ -79,7 +79,7 @@ Investing in the assets that power everyday life
 
 Infrastructure sits at the heart of the global economy—powering homes, connecting communities, enabling trade, and supporting long-term economic growth.
 
-At Stonepeak Partners, we provide access to infrastructure opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.
+At Alphadyne Asset Management, we provide access to infrastructure opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.
 
 Why infrastructure?
 
@@ -108,7 +108,7 @@ Infrastructure opportunities are accessed through our Bespoke Portfolio Service,
         name: "Sustainable Investing",
         slug: "sustainable-investing",
         content:
-          "Sustainable investing is no longer a niche consideration—it is an essential part of building resilient, forward-looking portfolios. At Stonepeak Partners, we help clients align their investments with their values without compromising on long-term financial objectives.",
+          "Sustainable investing is no longer a niche consideration—it is an essential part of building resilient, forward-looking portfolios. At Alphadyne Asset Management, we help clients align their investments with their values without compromising on long-term financial objectives.",
         heroImage:
           "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1400&q=80",
         timelineImages: [
@@ -123,7 +123,7 @@ Investing for returns—and for impact
 
 Sustainable investing is no longer a niche consideration—it is an essential part of building resilient, forward-looking portfolios.
 
-At Stonepeak Partners, we help clients align their investments with their values without compromising on long-term financial objectives. Our approach combines disciplined portfolio construction with a clear focus on environmental, social, and governance (ESG) considerations.
+At Alphadyne Asset Management, we help clients align their investments with their values without compromising on long-term financial objectives. Our approach combines disciplined portfolio construction with a clear focus on environmental, social, and governance (ESG) considerations.
 
 Our Approach
 
@@ -155,7 +155,7 @@ Our priority is to deliver strong, risk-adjusted returns over the long term. Sus
         name: "About Us",
         slug: "who-we-are",
         content:
-          "Stonepeak Partners is an independent, financially strong wealth management firm with over 30 years of experience supporting advisers and their clients. We combine deep investment expertise with a highly personalised approach—working closely with advisers and clients to deliver outcomes aligned with their goals, values, and evolving needs.",
+          "Alphadyne Asset Management is an independent, financially strong wealth management firm with over 30 years of experience supporting advisers and their clients. We combine deep investment expertise with a highly personalised approach—working closely with advisers and clients to deliver outcomes aligned with their goals, values, and evolving needs.",
         heroImage:
           "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1400&q=80",
         timelineImages: [
@@ -168,13 +168,13 @@ Our priority is to deliver strong, risk-adjusted returns over the long term. Sus
         fullContent: `
 Realising ambitions. Securing futures.
 
-At Stonepeak Partners, we are dedicated to helping clients build, manage, and protect their wealth through tailored investment solutions and long-term partnerships.
+At Alphadyne Asset Management, we are dedicated to helping clients build, manage, and protect their wealth through tailored investment solutions and long-term partnerships.
 
 We combine deep investment expertise with a highly personalised approach—working closely with advisers and clients to deliver outcomes aligned with their goals, values, and evolving needs.
 
 Who we are
 
-Stonepeak Partners is an independent, financially strong wealth management firm with over 30 years of experience supporting advisers and their clients.
+Alphadyne Asset Management is an independent, financially strong wealth management firm with over 30 years of experience supporting advisers and their clients.
 
 We understand the challenges of today's investment landscape because we work alongside you—navigating market complexity, regulatory change, and shifting client expectations.
 
@@ -200,7 +200,7 @@ Active management — We continuously monitor portfolios, making informed adjust
 
 Transparency and communication — Clear reporting and ongoing dialogue ensure you remain informed and confident at every stage.
 
-Why Stonepeak Partners
+Why Alphadyne Asset Management
 
 Independent and financially strong. Over three decades of experience. Tailored, client-centric investment solutions. Institutional-quality research and frameworks. A collaborative, relationship-led approach.
 
@@ -247,7 +247,7 @@ Start your investment journey with confidence.
         name: "Careers",
         slug: "careers",
         content:
-          "At StonePeak Partners, we offer the opportunity to work in a fast-paced, high-conviction environment at the centre of global financial markets. We are a results-focused, performance-led investment firm managing over £300 million in client capital. Our culture is built on accountability, precision, meritocracy, and continuous improvement.",
+          "At Alphadyne Asset Management, we offer the opportunity to work in a fast-paced, high-conviction environment at the centre of global financial markets. We are a results-focused, performance-led investment firm managing over £300 million in client capital. Our culture is built on accountability, precision, meritocracy, and continuous improvement.",
         heroImage:
           "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1400&q=80",
         timelineImages: [
@@ -258,19 +258,19 @@ Start your investment journey with confidence.
         contactImage:
           "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80",
         fullContent: `
-Build Your Career at StonePeak Partners
+Build Your Career at Alphadyne Asset Management
 
 Join a performance-driven investment firm where talent, discipline, and ambition are rewarded.
 
-At StonePeak Partners, we offer the opportunity to work in a fast-paced, high-conviction environment at the centre of global financial markets.
+At Alphadyne Asset Management, we offer the opportunity to work in a fast-paced, high-conviction environment at the centre of global financial markets.
 
 A Different Kind of Investment Firm
 
 We are not a traditional organisation. We are a results-focused, performance-led investment firm managing over £300 million in client capital.
 
-Our culture is built on accountability, precision, meritocracy, and continuous improvement. Every individual at StonePeak Partners contributes directly to the firm's success.
+Our culture is built on accountability, precision, meritocracy, and continuous improvement. Every individual at Alphadyne Asset Management contributes directly to the firm's success.
 
-Why Join StonePeak
+Why Join Alphadyne Asset Management
 
 Performance-Based Culture — We reward outcomes, not tenure. Your progression is determined by your impact, not hierarchy.
 
@@ -290,7 +290,7 @@ Client Services & Administration — Client Relationship Managers, Onboarding Sp
 
 Business Development & Growth — Business Development Managers, Investor Relations, Strategic Partnerships.
 
-Working at StonePeak
+Working at Alphadyne Asset Management
 
 Our office is based in West London, providing access to a dynamic financial and professional network. We offer competitive, performance-linked compensation structures aligned with individual and firm success.
 
@@ -494,7 +494,7 @@ Our focus is on identifying these trends early, investing with discipline, and h
         name: "Legal",
         slug: "legal",
         content:
-          "StonePeak Partners is authorised and regulated by the Financial Conduct Authority (FCA). Client funds are protected under the Financial Services Compensation Scheme (FSCS) up to £120,000, subject to eligibility. We adhere to the highest standards of regulatory compliance and transparency.",
+          "Alphadyne Asset Management is authorised and regulated by the Financial Conduct Authority (FCA). Client funds are protected under the Financial Services Compensation Scheme (FSCS) up to £120,000, subject to eligibility. We adhere to the highest standards of regulatory compliance and transparency.",
         heroImage:
           "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1400&q=80",
         timelineImages: [
@@ -509,7 +509,7 @@ Our focus is on identifying these trends early, investing with discipline, and h
         name: "Privacy Policy",
         slug: "privacy-policy",
         content:
-          "StonePeak Partners is committed to protecting the privacy and security of our clients' personal data. Our privacy policy outlines how we collect, use, and safeguard your information in accordance with applicable data protection regulations.",
+          "Alphadyne Asset Management is committed to protecting the privacy and security of our clients' personal data. Our privacy policy outlines how we collect, use, and safeguard your information in accordance with applicable data protection regulations.",
         heroImage:
           "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=1400&q=80",
         timelineImages: [
@@ -524,7 +524,7 @@ Our focus is on identifying these trends early, investing with discipline, and h
         name: "Cookie Policy",
         slug: "cookie-policy",
         content:
-          "Our cookie policy explains how StonePeak Partners uses cookies and similar technologies to support the functionality of our platform, improve your experience, and maintain secure sessions for account holders.",
+          "Our cookie policy explains how Alphadyne Asset Management uses cookies and similar technologies to support the functionality of our platform, improve your experience, and maintain secure sessions for account holders.",
         heroImage:
           "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1400&q=80",
         timelineImages: [
@@ -539,7 +539,7 @@ Our focus is on identifying these trends early, investing with discipline, and h
         name: "Terms of Use",
         slug: "terms-of-use",
         content:
-          "These terms govern your use of the StonePeak Partners platform and services. By accessing our website and investment services, you agree to comply with these terms, including policies on account requirements and participation in our investment strategies.",
+          "These terms govern your use of the Alphadyne Asset Management platform and services. By accessing our website and investment services, you agree to comply with these terms, including policies on account requirements and participation in our investment strategies.",
         heroImage:
           "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1400&q=80",
         timelineImages: [

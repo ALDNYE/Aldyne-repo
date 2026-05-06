@@ -9,7 +9,7 @@ export function PioneersSection() {
         </h2>
 
         <p className="text-sm md:text-base text-slate-500 max-w-2xl mx-auto leading-relaxed font-light uppercase tracking-[0.2em]">
-          Since Stonepeak’s founding we have been focused on creating and
+          Since Alphadyne’s founding we have been focused on creating and
           preserving wealth through high-standard infrastructure investing.
         </p>
       </div>
@@ -19,7 +19,7 @@ export function PioneersSection() {
         <iframe
           className="absolute inset-0 w-full h-full pointer-events-none"
           src="https://www.youtube.com/embed/koPkElMab4U?autoplay=1&mute=1&loop=1&playlist=koPkElMab4U&controls=0&rel=0&showinfo=0&iv_load_policy=3"
-          title="Stonepeak Partners Cinematic Video"
+          title="Alphadyne Asset Management Cinematic Video"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen

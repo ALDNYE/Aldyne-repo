@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { ChevronDown, Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { FOOTER_DATA } from "@/constants/footer-links";
@@ -41,14 +42,25 @@ export default function Navbar() {
             <Link
               href="/"
               onClick={closeAll}
-              className="flex items-center gap-1 hover:opacity-80 transition-opacity"
+              className="flex items-center gap-3 hover:opacity-80 transition-opacity"
             >
-              <span className="text-lg md:text-2xl font-bold tracking-tighter text-black uppercase italic">
-                Stonepeak
-              </span>
-              <span className="text-lg md:text-2xl font-light tracking-tighter text-[#0070f3] uppercase">
-                Partners
-              </span>
+              <div className="bg-white p-1 rounded-sm border border-slate-100">
+                <Image
+                  src="/aphadyne.jpeg"
+                  alt="Alphadyne"
+                  width={100}
+                  height={32}
+                  className="object-contain h-6 md:h-8 w-auto"
+                />
+              </div>
+              <div className="flex flex-col leading-none">
+                <span className="text-sm md:text-lg font-bold tracking-tight text-black uppercase">
+                  Alphadyne
+                </span>
+                <span className="text-[10px] md:text-xs font-light tracking-widest text-slate-500 uppercase">
+                  Asset Management
+                </span>
+              </div>
             </Link>
 
             {/* DESKTOP DROPDOWN MENU */}
