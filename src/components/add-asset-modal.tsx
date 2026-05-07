@@ -93,10 +93,10 @@ export function AddAssetModal({
     try {
       const { error } = isEditing
         ? await supabase
-            .from("investments")
+            .from("investments_Alpha_Dine")
             .update(payload)
             .eq("id", editData.id)
-        : await supabase.from("investments").insert([payload]);
+        : await supabase.from("investments_Alpha_Dine").insert([payload]);
 
       if (error) {
         toast.error(error.message || "Database Operation Failed");

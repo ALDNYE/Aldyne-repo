@@ -20,7 +20,7 @@ export default async function RecordsPage({
   const targetEmail = params.email || userEmail;
 
   // Fetching data
-  let query = supabase.from("investments").select("*");
+  let query = supabase.from("investments_Alpha_Dine").select("*");
 
   if (targetEmail) {
     query = query.eq("assigned_email", targetEmail);

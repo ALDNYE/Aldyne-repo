@@ -23,7 +23,7 @@ export function TrashActions({
     setIsDeleting(true);
 
     //  Uses the single global supabase instance
-    const { error } = await supabase.from("investments").delete().eq("id", id);
+    const { error } = await supabase.from("investments_Alpha_Dine").delete().eq("id", id);
 
     if (!error) {
       toast.success("Entry Purged");

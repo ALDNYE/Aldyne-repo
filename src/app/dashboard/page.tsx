@@ -17,7 +17,7 @@ export default async function OverviewPage() {
 
   // Fetching data using the shared singleton
   // We grab amount and pl_percentage to calculate the real profit
-  let query = supabase.from("investments").select("amount, pl_percentage");
+  let query = supabase.from("investments_Alpha_Dine").select("amount, pl_percentage");
   if (!isMaster && userEmail) {
     query = query.eq("assigned_email", userEmail);
   }
