@@ -46,7 +46,7 @@ export default function Navbar() {
             >
               <div className="bg-white p-1 rounded-sm border border-slate-100">
                 <Image
-                  src="/aphadyne.jpeg"
+                  src="/logo.avif"
                   alt="Alphadyne"
                   width={100}
                   height={32}

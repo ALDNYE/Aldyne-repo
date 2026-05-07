@@ -48,7 +48,7 @@ export function Footer() {
           <div className="flex items-center gap-4">
             <div className="bg-white p-1 rounded-sm">
               <Image 
-                src="/aphadyne.jpeg" 
+                src="/logo.avif" 
                 alt="Alphadyne Logo" 
                 width={120} 
                 height={40} 
