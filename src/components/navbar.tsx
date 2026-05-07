@@ -44,9 +44,9 @@ export default function Navbar() {
               onClick={closeAll}
               className="flex items-center gap-3 hover:opacity-80 transition-opacity"
             >
-              <div className="bg-white p-1 rounded-sm border border-slate-100">
+              <div className="p-1 rounded-sm border border-slate-100">
                 <Image
-                  src="/logo.avif"
+                  src="/logo.jpeg"
                   alt="Alphadyne"
                   width={100}
                   height={32}
@@ -178,9 +178,8 @@ export default function Navbar() {
                     {section.category}
                   </span>
                   <ChevronDown
-                    className={`h-3.5 w-3.5 text-slate-400 transition-transform duration-200 ${
-                      openSection === section.category ? "rotate-180" : ""
-                    }`}
+                    className={`h-3.5 w-3.5 text-slate-400 transition-transform duration-200 ${openSection === section.category ? "rotate-180" : ""
+                      }`}
                   />
                 </button>
 

@@ -46,12 +46,12 @@ export function Footer() {
         {/* LOGO AND REGIONAL SELECTOR */}
         <div className="py-10 flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center gap-4">
-            <div className="bg-white p-1 rounded-sm">
-              <Image 
-                src="/logo.avif" 
-                alt="Alphadyne Logo" 
-                width={120} 
-                height={40} 
+            <div className="p-1 rounded-sm">
+              <Image
+                src="/logo.jpeg"
+                alt="Alphadyne Logo"
+                width={120}
+                height={40}
                 className="object-contain"
               />
             </div>
@@ -59,7 +59,7 @@ export function Footer() {
               Alphadyne Asset Management
             </span>
           </div>
-          
+
           <div className="flex items-center gap-2 text-zinc-400 text-sm">
             <MapPin className="h-4 w-4" />
             <span>50 Broadway, London SW1H 4AH</span>
