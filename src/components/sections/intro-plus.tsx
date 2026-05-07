@@ -14,7 +14,7 @@ export function IntroPlusSection() {
         {/* DESCRIPTION TEXT */}
         <div className="space-y-6">
           <p className="text-xl md:text-2xl text-slate-800 font-light leading-relaxed max-w-3xl mx-auto">
-            Help your clients access high-quality Portfolio assets through
+            Help your clients access high-quality Portfolio Management assets through
             Alphadyne’s global investment platform.
           </p>
         </div>

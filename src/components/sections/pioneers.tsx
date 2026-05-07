@@ -5,12 +5,12 @@ export function PioneersSection() {
     <section className="bg-white pt-24 text-center">
       <div className="max-w-4xl mx-auto space-y-6 mb-16 px-6">
         <h2 className="text-3xl md:text-5xl font-serif text-slate-900 tracking-tight">
-          Portfolio Pioneers
+          Portfolio Management Pioneers
         </h2>
 
         <p className="text-sm md:text-base text-slate-500 max-w-2xl mx-auto leading-relaxed font-light uppercase tracking-[0.2em]">
           Since Alphadyne’s founding we have been focused on creating and
-          preserving wealth through high-standard Portfolio investing.
+          preserving wealth through high-standard Portfolio Management investing.
         </p>
       </div>
 

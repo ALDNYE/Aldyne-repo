@@ -1,5 +1,5 @@
 import { auth, currentUser } from "@clerk/nextjs/server";
-import { supabase } from "@/lib/supabase"; 
+import { supabase } from "@/lib/supabase";
 import { ShieldCheck, Calculator } from "lucide-react";
 
 export default async function OverviewPage() {
@@ -52,7 +52,7 @@ export default async function OverviewPage() {
       {/* Hero Metrics */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <StatCard
-          label={isMaster ? "Total Managed Capital" : "Portfolio Value"}
+          label={isMaster ? "Total Managed Capital" : "Portfolio Management Value"}
           value={`£${totalValue.toLocaleString("en-GB", { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
           isPrimary
         />
@@ -73,7 +73,7 @@ export default async function OverviewPage() {
         <div className="bg-primary p-3 flex items-center gap-3">
           <ShieldCheck className="size-3.5 text-white" />
           <h2 className="text-[9px] font-bold uppercase tracking-[0.25em] text-white">
-            Portfolio Calculation Methodology
+            Portfolio Management Calculation Methodology
           </h2>
         </div>
 
@@ -86,7 +86,7 @@ export default async function OverviewPage() {
               Total managed capital reflects the current net balance of all
               active asset accounts. Any registered partial sales or full
               liquidations are automatically subtracted from the total principal
-              value to output a real-time portfolio balance.
+              value to output a real-time Portfolio Management balance.
             </p>
           </div>
 
@@ -133,9 +133,8 @@ function StatCard({
         {label}
       </p>
       <p
-        className={`text-4xl font-bold tracking-tighter ${
-          isPrimary ? "text-primary" : className || "text-foreground"
-        }`}
+        className={`text-4xl font-bold tracking-tighter ${isPrimary ? "text-primary" : className || "text-foreground"
+          }`}
       >
         {value}
       </p>

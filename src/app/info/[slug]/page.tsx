@@ -241,7 +241,7 @@ function InvestmentsLayout({ pageData }: { pageData: any }) {
             </p>
             <p className="text-blue-200 text-xs leading-relaxed mb-5">
               Speak with an investment manager about building a bespoke
-              portfolio tailored to your goals.
+              Portfolio Management tailored to your goals.
             </p>
             <a
               href="#"
@@ -600,9 +600,9 @@ function OurProcessLayout({ pageData }: { pageData: any }) {
 function CareersLayout({ pageData }: { pageData: any }) {
   const teams = [
     {
-      name: "Investment & Portfolio Management",
+      name: "Investment & Portfolio Management Management",
       roles: [
-        "Portfolio Managers",
+        "Portfolio Management Managers",
         "Equity Traders",
         "Analysts",
         "Risk Analysts",
@@ -610,7 +610,7 @@ function CareersLayout({ pageData }: { pageData: any }) {
       color: "#001a40",
     },
     {
-      name: "Portfolio & Operations",
+      name: "Portfolio Management & Operations",
       roles: [
         "Operations Analysts",
         "Trade Support",
@@ -1088,8 +1088,8 @@ function LegalLayout({ pageData }: { pageData: any }) {
                   <Link
                     href={`/info/${item.slug}`}
                     className={`block text-sm py-1.5 px-3 transition-colors ${item.slug === pageData.slug
-                        ? "font-bold text-[#001a40] bg-white border-l-2 border-[#001a40]"
-                        : "text-stone-500 hover:text-[#001a40]"
+                      ? "font-bold text-[#001a40] bg-white border-l-2 border-[#001a40]"
+                      : "text-stone-500 hover:text-[#001a40]"
                       }`}
                   >
                     {item.name}

@@ -8,7 +8,7 @@ export default function StatsPage() {
           Performance Analytics
         </p>
         <h1 className="text-4xl font-bold tracking-tight text-foreground italic">
-          Portfolio{" "}
+          Portfolio Management{" "}
           <span className="not-italic font-black text-primary">
             Intelligence
           </span>

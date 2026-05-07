@@ -7,11 +7,11 @@ export function WhyNowSection() {
         {/* LEFT SIDE: TEXT CONTENT */}
         <div className="space-y-8 order-2 lg:order-1 max-w-xl">
           <p className="text-lg md:text-xl text-slate-800 leading-relaxed font-light">
-            Portfolio investing has never been more timely or important
+            Portfolio Management investing has never been more timely or important
             given the significant capital needed for essential services that
             enable modern life. It is estimated that nearly $100¹ trillion of
             investment is required to replace or modernize the world’s
-            Portfolio including across the digital, transport, and energy
+            Portfolio Management including across the digital, transport, and energy
             sectors.
           </p>
 
@@ -34,7 +34,7 @@ export function WhyNowSection() {
           <iframe
             className="absolute inset-0 w-full h-full pointer-events-none scale-105"
             src="https://www.youtube.com/embed/EEX0EHTTePE?autoplay=1&mute=1&loop=1&playlist=EEX0EHTTePE&controls=0&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1"
-            title="Portfolio Insights Video"
+            title="Portfolio Management Insights Video"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen

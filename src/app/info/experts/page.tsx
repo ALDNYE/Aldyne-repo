@@ -4,7 +4,7 @@ const TEAM = [
   {
     name: "Marcus Stone",
     role: "Managing Partner & Founder",
-    bio: "With over 25 years in Portfolio investment, Marcus leads the firm's strategic vision and global expansion.",
+    bio: "With over 25 years in Portfolio Management investment, Marcus leads the firm's strategic vision and global expansion.",
     image:
       "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
   },
@@ -18,7 +18,7 @@ const TEAM = [
   {
     name: "David Chen",
     role: "Chief Investment Officer",
-    bio: "David manages our core portfolios, consistently outperforming benchmarks through rigorous data-driven strategies.",
+    bio: "David manages our core Portfolio Managements, consistently outperforming benchmarks through rigorous data-driven strategies.",
     image:
       "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
   },
