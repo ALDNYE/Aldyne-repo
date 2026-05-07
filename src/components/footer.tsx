@@ -55,9 +55,7 @@ export function Footer() {
                 className="object-contain"
               />
             </div>
-            <span className="font-bold tracking-tighter text-2xl uppercase">
-              Alphadyne Asset Management
-            </span>
+
           </div>
 
           <div className="flex items-center gap-2 text-zinc-400 text-sm">

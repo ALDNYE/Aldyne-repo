@@ -53,14 +53,7 @@ export default function Navbar() {
                   className="object-contain h-6 md:h-8 w-auto"
                 />
               </div>
-              <div className="flex flex-col leading-none">
-                <span className="text-sm md:text-lg font-bold tracking-tight text-black uppercase">
-                  Alphadyne
-                </span>
-                <span className="text-[10px] md:text-xs font-light tracking-widest text-slate-500 uppercase">
-                  Asset Management
-                </span>
-              </div>
+
             </Link>
 
             {/* DESKTOP DROPDOWN MENU */}

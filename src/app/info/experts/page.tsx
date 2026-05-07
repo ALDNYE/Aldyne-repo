@@ -4,7 +4,7 @@ const TEAM = [
   {
     name: "Marcus Stone",
     role: "Managing Partner & Founder",
-    bio: "With over 25 years in infrastructure investment, Marcus leads the firm's strategic vision and global expansion.",
+    bio: "With over 25 years in Portfolio investment, Marcus leads the firm's strategic vision and global expansion.",
     image:
       "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
   },

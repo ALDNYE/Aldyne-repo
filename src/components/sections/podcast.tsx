@@ -10,7 +10,7 @@ export function PodcastSection() {
       {/* BACKGROUND IMAGE */}
       <Image
         src="/bg.png"
-        alt="Inside Infrastructure Investing"
+        alt="Inside Portfolio Investing"
         fill
         className="object-cover"
         priority
@@ -23,7 +23,7 @@ export function PodcastSection() {
       <div className="relative z-10 max-w-5xl mx-auto px-6 text-center space-y-8">
         <h2 className="text-3xl md:text-5xl font-serif text-white tracking-tight leading-tight">
           Alt Goes Mainstream Podcast: <br />
-          Inside Infrastructure Investing
+          Inside Portfolio Investing
         </h2>
 
         <div className="pt-6">

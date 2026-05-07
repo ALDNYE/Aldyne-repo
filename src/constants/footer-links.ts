@@ -61,10 +61,10 @@ We work as an extension of your team—combining investment expertise with a col
         `,
       },
       {
-        name: "Infrastructure Opportunities",
-        slug: "infrastructure-opportunities",
+        name: "Portfolio Opportunities",
+        slug: "Portfolio-opportunities",
         content:
-          "Infrastructure sits at the heart of the global economy—powering homes, connecting communities, enabling trade, and supporting long-term economic growth. At Alphadyne Asset Management, we provide access to infrastructure opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.",
+          "Portfolio sits at the heart of the global economy—powering homes, connecting communities, enabling trade, and supporting long-term economic growth. At Alphadyne Asset Management, we provide access to Portfolio opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.",
         heroImage:
           "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1400&q=80",
         timelineImages: [
@@ -77,31 +77,31 @@ We work as an extension of your team—combining investment expertise with a col
         fullContent: `
 Investing in the assets that power everyday life
 
-Infrastructure sits at the heart of the global economy—powering homes, connecting communities, enabling trade, and supporting long-term economic growth.
+Portfolio sits at the heart of the global economy—powering homes, connecting communities, enabling trade, and supporting long-term economic growth.
 
-At Alphadyne Asset Management, we provide access to infrastructure opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.
+At Alphadyne Asset Management, we provide access to Portfolio opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.
 
-Why infrastructure?
+Why Portfolio?
 
-Infrastructure investments are supported by powerful structural trends—from digitalisation and energy transition to global supply chains and urbanisation.
+Portfolio investments are supported by powerful structural trends—from digitalisation and energy transition to global supply chains and urbanisation.
 
 These assets typically provide long-term, predictable cash flows, inflation-linked income characteristics, lower correlation to traditional asset classes, and exposure to essential services with enduring demand.
 
 Key investment sectors
 
-Digital infrastructure — We invest in assets that enable global connectivity and digital growth, including data centres, fibre networks, and communications infrastructure—supporting the rapid expansion of cloud computing, 5G, and data consumption.
+Digital Portfolio — We invest in assets that enable global connectivity and digital growth, including data centres, fibre networks, and communications Portfolio—supporting the rapid expansion of cloud computing, 5G, and data consumption.
 
-Energy & energy transition — Our focus includes renewable energy, energy storage, and transitional energy infrastructure—supporting decarbonisation while maintaining reliable, scalable energy systems.
+Energy & energy transition — Our focus includes renewable energy, energy storage, and transitional energy Portfolio—supporting decarbonisation while maintaining reliable, scalable energy systems.
 
-Transport & logistics — We invest in infrastructure that facilitates the movement of goods, people, and resources—supporting supply chains, trade, and economic activity across global markets.
+Transport & logistics — We invest in Portfolio that facilitates the movement of goods, people, and resources—supporting supply chains, trade, and economic activity across global markets.
 
 Sustainability at the core
 
-Infrastructure plays a central role in addressing global challenges—from climate change to digital inclusion. We integrate sustainability into our investment approach by supporting assets that contribute to decarbonisation and efficiency, working with management teams to improve environmental and social outcomes, and embedding ESG considerations into investment decision-making.
+Portfolio plays a central role in addressing global challenges—from climate change to digital inclusion. We integrate sustainability into our investment approach by supporting assets that contribute to decarbonisation and efficiency, working with management teams to improve environmental and social outcomes, and embedding ESG considerations into investment decision-making.
 
 Access through bespoke portfolios
 
-Infrastructure opportunities are accessed through our Bespoke Portfolio Service, allowing us to integrate infrastructure alongside traditional and alternative assets, align investments with your risk profile and income requirements, and provide diversified exposure within a single, tailored portfolio.
+Portfolio opportunities are accessed through our Bespoke Portfolio Service, allowing us to integrate Portfolio alongside traditional and alternative assets, align investments with your risk profile and income requirements, and provide diversified exposure within a single, tailored portfolio.
         `,
       },
       {
@@ -131,7 +131,7 @@ We recognise that sustainability means different things to different investors. 
 
 Responsible Investment Strategies
 
-Advance Strategy — Focuses on investing in companies, sectors, and themes that are driving positive environmental and social change—such as renewable energy, sustainable infrastructure, and innovation-led industries.
+Advance Strategy — Focuses on investing in companies, sectors, and themes that are driving positive environmental and social change—such as renewable energy, sustainable Portfolio, and innovation-led industries.
 
 Avoid Strategy — Excludes exposure to sectors that may not align with your values, such as armaments, tobacco, gambling, alcohol, or other controversial industries.
 
@@ -186,7 +186,7 @@ We specialise in delivering bespoke investment strategies through our core offer
 
 Every portfolio is actively managed and continuously aligned to client needs—whether focused on growth, income, capital preservation, or a combination of outcomes.
 
-Alongside this, we provide access to infrastructure and real assets, equities and fixed income, alternative investments and structured solutions, and responsible and sustainable investment strategies.
+Alongside this, we provide access to Portfolio and real assets, equities and fixed income, alternative investments and structured solutions, and responsible and sustainable investment strategies.
 
 Our approach
 
@@ -284,7 +284,7 @@ Our Teams
 
 Investment & Portfolio Management — Portfolio Managers, Equity Traders, Analysts (Fundamental & Technical), Risk Analysts.
 
-Infrastructure & Operations — Operations Analysts, Trade Support, Systems & Technology Specialists, Compliance & Risk Operations.
+Portfolio & Operations — Operations Analysts, Trade Support, Systems & Technology Specialists, Compliance & Risk Operations.
 
 Client Services & Administration — Client Relationship Managers, Onboarding Specialists, Administrative Support, Investor Communications.
 
@@ -342,13 +342,13 @@ Global growth remains resilient but subdued, with forecasts broadly around 2.7%�
 
 Against this backdrop, investors are increasingly recognising that uncertainty is not cyclical—it is structural.
 
-The rise of real assets and infrastructure
+The rise of real assets and Portfolio
 
 As traditional markets face pressure from inflation, interest rate constraints, and geopolitical risk, capital is shifting towards assets with tangible, long-term value.
 
-Infrastructure sits at the centre of this transition. Demand is accelerating across energy systems, digital networks, and transport—driven by electrification, AI adoption, and global connectivity. In fact, data centres and digital infrastructure are expected to account for a significant share of future power demand growth.
+Portfolio sits at the centre of this transition. Demand is accelerating across energy systems, digital networks, and transport—driven by electrification, AI adoption, and global connectivity. In fact, data centres and digital Portfolio are expected to account for a significant share of future power demand growth.
 
-At the same time, infrastructure investment cycles are lengthening, reflecting a more patient, long-term approach to value creation.
+At the same time, Portfolio investment cycles are lengthening, reflecting a more patient, long-term approach to value creation.
 
 For investors, this creates opportunities to access stable cash flows, inflation-linked income, and diversification beyond traditional asset classes.
 
@@ -358,7 +358,7 @@ In a more complex environment, portfolio construction has become increasingly im
 
 A one-size-fits-all approach is no longer sufficient. Investors require portfolios that are actively managed, diversified across asset classes, and aligned to specific objectives—whether that is growth, income, or capital preservation.
 
-Through our Bespoke Portfolio Service, we integrate infrastructure, traditional assets, and alternative investments into a single, tailored strategy—designed to adapt as markets and client needs evolve.
+Through our Bespoke Portfolio Service, we integrate Portfolio, traditional assets, and alternative investments into a single, tailored strategy—designed to adapt as markets and client needs evolve.
 
 Looking ahead
 
@@ -396,23 +396,23 @@ Geopolitical dynamics are now a central force in market performance.
 
 Energy supply disruptions, trade fragmentation, and regional conflicts are influencing everything from commodity prices to capital flows. These dynamics are contributing to higher volatility—and reinforcing the importance of diversification across regions and asset classes.
 
-Infrastructure as a stabilising force
+Portfolio as a stabilising force
 
-In this environment, infrastructure is increasingly viewed as a source of stability.
+In this environment, Portfolio is increasingly viewed as a source of stability.
 
 Assets such as utilities, energy networks, and transport systems provide essential services with predictable demand. Many benefit from regulated or contracted revenue streams, helping to mitigate market volatility.
 
-At the same time, structural investment is accelerating—particularly in power infrastructure, where rising demand from AI, electrification, and digitalisation is driving long-term capital deployment.
+At the same time, structural investment is accelerating—particularly in power Portfolio, where rising demand from AI, electrification, and digitalisation is driving long-term capital deployment.
 
 Evolving sustainable investing
 
 Sustainable investing continues to mature, with a greater focus on measurable outcomes and real-world impact.
 
-Investors are moving beyond broad exclusions towards more targeted approaches—prioritising areas such as energy transition, resource efficiency, and social infrastructure. This shift reflects a more nuanced understanding of risk, return, and long-term value creation.
+Investors are moving beyond broad exclusions towards more targeted approaches—prioritising areas such as energy transition, resource efficiency, and social Portfolio. This shift reflects a more nuanced understanding of risk, return, and long-term value creation.
 
 Our perspective
 
-We believe successful investing today requires active management and flexibility, exposure to real assets and infrastructure, a disciplined approach to risk, and alignment with long-term structural trends.
+We believe successful investing today requires active management and flexibility, exposure to real assets and Portfolio, a disciplined approach to risk, and alignment with long-term structural trends.
 
 Our role is to navigate this complexity—helping clients remain focused on long-term outcomes, not short-term noise.
         `,
@@ -421,7 +421,7 @@ Our role is to navigate this complexity—helping clients remain focused on long
         name: "Secular Outlook",
         slug: "secular-outlook",
         content:
-          "Beyond short-term market movements, a set of powerful secular trends is reshaping the global economy—and creating long-term investment opportunities. These trends form the foundation of our investment approach, from digitalisation and data infrastructure to energy transition and global infrastructure demand.",
+          "Beyond short-term market movements, a set of powerful secular trends is reshaping the global economy—and creating long-term investment opportunities. These trends form the foundation of our investment approach, from digitalisation and data Portfolio to energy transition and global Portfolio demand.",
         heroImage:
           "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1400&q=80",
         timelineImages: [
@@ -438,27 +438,27 @@ Beyond short-term market movements, a set of powerful secular trends is reshapin
 
 These trends form the foundation of our investment approach.
 
-Digitalisation and data infrastructure
+Digitalisation and data Portfolio
 
 The rapid expansion of artificial intelligence, cloud computing, and digital connectivity is transforming economies.
 
-This is driving unprecedented demand for data centres, fibre networks, and power infrastructure—creating long-term investment opportunities across digital and energy systems.
+This is driving unprecedented demand for data centres, fibre networks, and power Portfolio—creating long-term investment opportunities across digital and energy systems.
 
-As demand for data and connectivity continues to grow, the infrastructure supporting it becomes increasingly critical—and increasingly valuable.
+As demand for data and connectivity continues to grow, the Portfolio supporting it becomes increasingly critical—and increasingly valuable.
 
 Energy transition and electrification
 
 The global shift towards cleaner, more efficient energy systems is one of the defining investment themes of our time.
 
-This transition requires significant investment across renewable energy, grid infrastructure, storage, and transitional energy sources. At the same time, rising electricity demand—from AI, electric vehicles, and industrial electrification—is reinforcing the need for resilient, scalable energy systems.
+This transition requires significant investment across renewable energy, grid Portfolio, storage, and transitional energy sources. At the same time, rising electricity demand—from AI, electric vehicles, and industrial electrification—is reinforcing the need for resilient, scalable energy systems.
 
-Infrastructure sits at the centre of this transformation.
+Portfolio sits at the centre of this transformation.
 
-Global infrastructure demand
+Global Portfolio demand
 
-The need for infrastructure investment extends far beyond developed markets.
+The need for Portfolio investment extends far beyond developed markets.
 
-Across emerging economies, demand for transport, energy, water, and communications infrastructure continues to grow—driven by population expansion, urbanisation, and economic development.
+Across emerging economies, demand for transport, energy, water, and communications Portfolio continues to grow—driven by population expansion, urbanisation, and economic development.
 
 At the same time, global investment gaps remain significant, highlighting the scale of opportunity for long-term investors.
 
@@ -472,7 +472,7 @@ The role of bespoke portfolios
 
 Capturing these long-term trends requires more than access—it requires integration.
 
-Through our Bespoke Portfolio Service, we build portfolios that combine infrastructure and real assets, traditional equities and fixed income, and sustainable and thematic investments.
+Through our Bespoke Portfolio Service, we build portfolios that combine Portfolio and real assets, traditional equities and fixed income, and sustainable and thematic investments.
 
 This allows us to position portfolios for long-term structural change—while maintaining balance, diversification, and risk control.
 
@@ -480,7 +480,7 @@ A long-term perspective
 
 Markets will fluctuate. Cycles will come and go.
 
-But the underlying drivers of growth—technology, energy, infrastructure, and sustainability—will continue to shape the future.
+But the underlying drivers of growth—technology, energy, Portfolio, and sustainability—will continue to shape the future.
 
 Our focus is on identifying these trends early, investing with discipline, and helping clients benefit from the opportunities they create.
         `,

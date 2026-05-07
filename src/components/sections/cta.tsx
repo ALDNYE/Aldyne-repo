@@ -19,7 +19,7 @@ export function CTASection() {
         <div className="space-y-4">
           <h2 className="text-3xl md:text-4xl font-serif text-white tracking-tight leading-tight">
             <span className="font-bold text-white/90">Alphadyne+</span> provides
-            access to high-quality infrastructure assets through Alphadyne Asset Management’s
+            access to high-quality Portfolio assets through Alphadyne Asset Management’s
             global investment platform.
           </h2>
 

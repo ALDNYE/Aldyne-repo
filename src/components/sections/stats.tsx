@@ -17,7 +17,7 @@ export function StatsSection() {
             <p className="text-lg md:text-xl text-slate-700 font-light leading-relaxed">
               Alphadyne Asset Management is a leading alternative investment
               specialist. We invest in energy, transport and logistics, and
-              digital infrastructure around the world – in the assets that
+              digital Portfolio around the world – in the assets that
               underpin these global megatrends.
             </p>
             <p className="text-lg md:text-xl text-slate-700 font-light leading-relaxed">
@@ -36,7 +36,7 @@ export function StatsSection() {
 
               <div className="mt-4 max-w-[280px] lg:max-w-none">
                 <p className="text-xl md:text-2xl text-slate-900 font-serif leading-tight">
-                  Years average infrastructure{" "}
+                  Years average Portfolio{" "}
                   <br className="hidden md:block" /> investing experience
                 </p>
               </div>

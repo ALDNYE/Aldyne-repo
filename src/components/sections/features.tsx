@@ -8,7 +8,7 @@ export function FeaturesSection() {
       <div className="max-w-7xl mx-auto">
         <div className="mb-20">
           <h2 className="text-4xl md:text-5xl font-serif text-slate-950 tracking-tight leading-tight max-w-xl mx-auto">
-            What makes infrastructure <br /> an attractive asset class?
+            What makes Portfolio <br /> an attractive asset class?
           </h2>
         </div>
 
@@ -23,7 +23,7 @@ export function FeaturesSection() {
               Essential services
             </h3>
             <p className="text-slate-600 text-sm leading-relaxed max-w-sm mx-auto">
-              Infrastructure businesses are typically backed by hard assets and
+              Portfolio businesses are typically backed by hard assets and
               perform critical functions that individuals and businesses depend
               on.
             </p>
@@ -38,7 +38,7 @@ export function FeaturesSection() {
               High barriers to entry
             </h3>
             <p className="text-slate-600 text-sm leading-relaxed max-w-sm mx-auto">
-              Infrastructure assets tend to be hard to replicate, providing
+              Portfolio assets tend to be hard to replicate, providing
               significant intrinsic value protection.
             </p>
           </div>
@@ -52,7 +52,7 @@ export function FeaturesSection() {
               Strong pricing power
             </h3>
             <p className="text-slate-600 text-sm leading-relaxed max-w-sm mx-auto">
-              Pricing power generally allows infrastructure investments to
+              Pricing power generally allows Portfolio investments to
               perform relatively well in a variety of macroeconomic
               environments.
             </p>

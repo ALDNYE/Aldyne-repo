@@ -610,7 +610,7 @@ function CareersLayout({ pageData }: { pageData: any }) {
       color: "#001a40",
     },
     {
-      name: "Infrastructure & Operations",
+      name: "Portfolio & Operations",
       roles: [
         "Operations Analysts",
         "Trade Support",
@@ -1087,11 +1087,10 @@ function LegalLayout({ pageData }: { pageData: any }) {
                 <li key={item.slug}>
                   <Link
                     href={`/info/${item.slug}`}
-                    className={`block text-sm py-1.5 px-3 transition-colors ${
-                      item.slug === pageData.slug
+                    className={`block text-sm py-1.5 px-3 transition-colors ${item.slug === pageData.slug
                         ? "font-bold text-[#001a40] bg-white border-l-2 border-[#001a40]"
                         : "text-stone-500 hover:text-[#001a40]"
-                    }`}
+                      }`}
                   >
                     {item.name}
                   </Link>

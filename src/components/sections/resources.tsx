@@ -6,14 +6,14 @@ import Link from "next/link";
 export function ResourcesSection() {
   const documents = [
     {
-      title: "Why Infrastructure",
+      title: "Why Portfolio",
       subtitle:
         "This report is the dedicated wealth solutions platform from Alphadyne Asset Management, a leading alternative investment specialist.",
       file: "/pdf-1.pdf",
       bgClass: "bg-[#020d1a]",
     },
     {
-      title: 'What makes infrastructure "infrastructure"?',
+      title: 'What makes Portfolio "Portfolio"?',
       subtitle:
         "A deeper look into the characteristics, investment attributes, and performance of the asset class.",
       file: "/pdf-2.pdf",
@@ -68,7 +68,7 @@ export function ResourcesSection() {
         {/* RIGHT SIDE HEADLINE */}
         <div className="w-full lg:w-1/3">
           <h2 className="text-4xl md:text-5xl font-serif text-slate-900 leading-[1.1] tracking-tight">
-            Find out more about the compelling case for infrastructure
+            Find out more about the compelling case for Portfolio
             investment today
           </h2>
         </div>

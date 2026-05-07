@@ -31,7 +31,7 @@ export default function RootLayout({
         suppressHydrationWarning
       >
         <head>
-          <link rel="icon" href="/aphadyne.jpeg" />
+          <link rel="icon" href="/logo.jpeg" />
           <title>Alphadyne Asset Management</title>
         </head>
         <body
