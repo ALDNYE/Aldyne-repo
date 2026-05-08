@@ -253,14 +253,9 @@ function InvestmentsLayout({ pageData }: { pageData: any }) {
         </div>
       </section>
 
-      {/* ── DISCLAIMER ── */}
-      <div className="border-t border-blue-900/30 py-8 px-8 max-w-7xl mx-auto">
-        <p className="text-xs text-zinc-600 leading-relaxed max-w-4xl">
-          Professional Investors Only. Past performance is not a guarantee of
-          future results. Stonepeak Partners is authorised and regulated by the
-          FCA. FSCS protection up to £120,000.
-        </p>
-      </div>
+      <Disclaimer
+        name={pageData.name}
+      />
     </main>
   );
 }
@@ -600,7 +595,7 @@ function OurProcessLayout({ pageData }: { pageData: any }) {
 function CareersLayout({ pageData }: { pageData: any }) {
   const teams = [
     {
-      name: "Investment & Portfolio Management Management",
+      name: "Investment & Portfolio Management",
       roles: [
         "Portfolio Management Managers",
         "Equity Traders",

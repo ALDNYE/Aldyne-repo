@@ -26,7 +26,7 @@ export const MOCK_RECORDS = [
 ];
 
 export const MOCK_STATS = {
-  totalPortfolio Management Management: 124500,
+  totalPortfolioValue: 124500,
   activeAssets: 12,
   monthlyDividends: 850.25,
   pendingRequests: 3,

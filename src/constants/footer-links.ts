@@ -3,8 +3,8 @@ export const FOOTER_DATA = [
     category: "Investments",
     links: [
       {
-        name: "Bespoke Portfolio Management Management",
-        slug: "bespoke-Portfolio Management-management",
+        name: "Bespoke Portfolio Management",
+        slug: "bespoke-portfolio-management",
         content:
           "Our Bespoke Portfolio Management Service (BPS) is designed to simplify complex investment decisions—offering a fully customised investment solution tailored to each client's unique goals, circumstances, and preferences. Whether your needs are straightforward or highly complex, we create Portfolio Managements that are flexible, responsive, and designed to evolve with you over time.",
         heroImage:
@@ -62,7 +62,7 @@ We work as an extension of your team—combining investment expertise with a col
       },
       {
         name: "Portfolio Management Opportunities",
-        slug: "Portfolio Management-opportunities",
+        slug: "portfolio-management-opportunities",
         content:
           "Portfolio Management sits at the heart of the global economy—powering homes, connecting communities, enabling trade, and supporting long-term economic growth. At Alphadyne Asset Management, we provide access to Portfolio Management opportunities that go beyond traditional markets—focusing on essential assets with strong fundamentals, long-term demand, and the potential to deliver resilient returns.",
         heroImage:
@@ -282,7 +282,7 @@ Career Acceleration — We provide a platform for rapid development for individu
 
 Our Teams
 
-Investment & Portfolio Management Management — Portfolio Management Managers, Equity Traders, Analysts (Fundamental & Technical), Risk Analysts.
+Investment & Portfolio Management — Portfolio Management Managers, Equity Traders, Analysts (Fundamental & Technical), Risk Analysts.
 
 Portfolio Management & Operations — Operations Analysts, Trade Support, Systems & Technology Specialists, Compliance & Risk Operations.
 
@@ -303,7 +303,7 @@ Apply Now — If you are driven, disciplined, and motivated to succeed in financ
       //   name: "Experts",
       //   slug: "experts",
       //   content:
-      //     "Our team brings together expertise across trading, Portfolio Management management, and financial markets. We operate in a high-performance environment focused on accountability, precision, and results. Every decision is backed by data, experience, and disciplined execution.",
+      //     "Our team brings together expertise across trading, Portfolio Management, and financial markets. We operate in a high-performance environment focused on accountability, precision, and results. Every decision is backed by data, experience, and disciplined execution.",
       //   heroImage:
       //     "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1400&q=80",
       //   timelineImages: [
@@ -352,7 +352,7 @@ At the same time, Portfolio Management investment cycles are lengthening, reflec
 
 For investors, this creates opportunities to access stable cash flows, inflation-linked income, and diversification beyond traditional asset classes.
 
-The role of bespoke Portfolio Management management
+The role of bespoke Portfolio Management
 
 In a more complex environment, Portfolio Management construction has become increasingly important.
 

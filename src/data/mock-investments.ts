@@ -1,5 +1,5 @@
 export const MOCK_STATS = {
-  totalPortfolio Management Management: 124500.0,
+  totalPortfolioValue: 124500.0,
   activeAssets: 12,
   monthlyDividends: 850.25,
   pendingRequests: 3,
