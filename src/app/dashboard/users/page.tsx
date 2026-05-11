@@ -13,7 +13,10 @@ export default async function UsersPage() {
     "user_3DZ274PkqLpOkYZPkEOdI9xumPX",
   ];
 
-  if (!userId || !MASTER_USER_IDS.includes(userId)) {
+  const { sessionClaims } = await auth();
+  const isAdmin = (sessionClaims as any)?.metadata?.role === "admin";
+
+  if (!userId || (!MASTER_USER_IDS.includes(userId) && !isAdmin)) {
     redirect("/dashboard");
   }
 

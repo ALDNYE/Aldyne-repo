@@ -45,7 +45,7 @@ export function AppSidebar() {
     "user_3DZ274PkqLpOkYZPkEOdI9xumPX",
   ];
 
-  const isAdmin = user?.publicMetadata?.role === "admin";
+  const isAdmin = (user?.publicMetadata as any)?.role === "admin";
   const isMaster = (!!user?.id && MASTER_USER_IDS.includes(user.id)) || isAdmin;
 
   return (

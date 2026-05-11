@@ -14,7 +14,7 @@ export default async function RecordsPage({
   const params = await searchParams;
 
   const { sessionClaims } = await auth();
-  const isAdmin = sessionClaims?.metadata?.role === "admin";
+  const isAdmin = (sessionClaims as any)?.metadata?.role === "admin";
 
   const MASTER_USER_IDS = [
     "user_3BTsg6kSbYZtxfN2v95I3mUEnyj",

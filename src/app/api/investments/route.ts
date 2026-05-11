@@ -14,7 +14,7 @@ export async function POST(req: Request) {
       "user_3DZ274PkqLpOkYZPkEOdI9xumPX",
     ];
 
-    const isMaster = (userId && MASTER_USER_IDS.includes(userId)) || sessionClaims?.metadata?.role === "admin";
+    const isMaster = (userId && MASTER_USER_IDS.includes(userId)) || (sessionClaims as any)?.metadata?.role === "admin";
 
     // Secure check: only admin role allowed to modify data
     if (!isMaster) {
@@ -62,7 +62,7 @@ export async function DELETE(req: Request) {
       "user_3DZ274PkqLpOkYZPkEOdI9xumPX",
     ];
 
-    const isMaster = (userId && MASTER_USER_IDS.includes(userId)) || sessionClaims?.metadata?.role === "admin";
+    const isMaster = (userId && MASTER_USER_IDS.includes(userId)) || (sessionClaims as any)?.metadata?.role === "admin";
 
     // Secure check: only admin role allowed to delete data
     if (!isMaster) {
