@@ -4,9 +4,16 @@ import { redirect } from "next/navigation";
 export default async function UsersPage() {
   const { userId } = await auth();
 
-  // Security: Only allow the Master User
-  const MASTER_USER_ID = "user_3BTsg6kSbYZtxfN2v95I3mUEnyj";
-  if (userId !== MASTER_USER_ID) {
+  // Security: Only allow the Master Users
+  const MASTER_USER_IDS = [
+    "user_3BTsg6kSbYZtxfN2v95I3mUEnyj",
+    "user_3DZ2kNO4aJttcHWOCvEVLGetvDg",
+    "user_3DZ2dDCPdOnudmhX2MyuM8uPAnC",
+    "user_3DZ2TDJjPROri8pIXILJByTdONg",
+    "user_3DZ274PkqLpOkYZPkEOdI9xumPX",
+  ];
+
+  if (!userId || !MASTER_USER_IDS.includes(userId)) {
     redirect("/dashboard");
   }
 

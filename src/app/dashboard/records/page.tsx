@@ -13,8 +13,18 @@ export default async function RecordsPage({
   const user = await currentUser();
   const params = await searchParams;
 
-  const MASTER_ADMINS = ["user_3BTsg6kSbYZtxfN2v95I3mUEnyj"];
-  const isMaster = userId ? MASTER_ADMINS.includes(userId) : false;
+  const { sessionClaims } = await auth();
+  const isAdmin = sessionClaims?.metadata?.role === "admin";
+
+  const MASTER_USER_IDS = [
+    "user_3BTsg6kSbYZtxfN2v95I3mUEnyj",
+    "user_3DZ2kNO4aJttcHWOCvEVLGetvDg",
+    "user_3DZ2dDCPdOnudmhX2MyuM8uPAnC",
+    "user_3DZ2TDJjPROri8pIXILJByTdONg",
+    "user_3DZ274PkqLpOkYZPkEOdI9xumPX",
+  ];
+
+  const isMaster = (userId && MASTER_USER_IDS.includes(userId)) || isAdmin;
 
   const userEmail = user?.primaryEmailAddress?.emailAddress;
   const targetEmail = params.email || userEmail;

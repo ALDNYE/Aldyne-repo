@@ -8,12 +8,18 @@ export default async function OverviewPage() {
   const userEmail = user?.primaryEmailAddress?.emailAddress;
   console.log("Current Logged In ID:", userId);
 
-  const MASTER_IDS = [
-    // "user_3AYuN7sMwNBznIoceq9c7psqbeT", // veltra
-    "user_3BTsg6kSbYZtxfN2v95I3mUEnyj", // Alphadyne
+  const { sessionClaims } = await auth();
+  const isAdmin = sessionClaims?.metadata?.role === "admin";
+
+  const MASTER_USER_IDS = [
+    "user_3BTsg6kSbYZtxfN2v95I3mUEnyj",
+    "user_3DZ2kNO4aJttcHWOCvEVLGetvDg",
+    "user_3DZ2dDCPdOnudmhX2MyuM8uPAnC",
+    "user_3DZ2TDJjPROri8pIXILJByTdONg",
+    "user_3DZ274PkqLpOkYZPkEOdI9xumPX",
   ];
 
-  const isMaster = userId ? MASTER_IDS.includes(userId) : false;
+  const isMaster = (userId && MASTER_USER_IDS.includes(userId)) || isAdmin;
 
   // Fetching data using the shared singleton
   // We grab amount and pl_percentage to calculate the real profit

@@ -37,12 +37,16 @@ export function AppSidebar() {
   const pathname = usePathname();
 
   // support both master accounts
-  const MASTER_IDS = [
-    // "user_3AYuN7sMwNBznIoceq9c7psqbeT",
+  const MASTER_USER_IDS = [
     "user_3BTsg6kSbYZtxfN2v95I3mUEnyj",
+    "user_3DZ2kNO4aJttcHWOCvEVLGetvDg",
+    "user_3DZ2dDCPdOnudmhX2MyuM8uPAnC",
+    "user_3DZ2TDJjPROri8pIXILJByTdONg",
+    "user_3DZ274PkqLpOkYZPkEOdI9xumPX",
   ];
 
-  const isMaster = !!user?.id && MASTER_IDS.includes(user.id);
+  const isAdmin = user?.publicMetadata?.role === "admin";
+  const isMaster = (!!user?.id && MASTER_USER_IDS.includes(user.id)) || isAdmin;
 
   return (
     <Sidebar

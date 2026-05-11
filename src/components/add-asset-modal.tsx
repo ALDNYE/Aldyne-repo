@@ -93,9 +93,9 @@ export function AddAssetModal({
     try {
       const { error } = isEditing
         ? await supabase
-            .from("investments_Alpha_Dine")
-            .update(payload)
-            .eq("id", editData.id)
+          .from("investments_Alpha_Dine")
+          .update(payload)
+          .eq("id", editData.id)
         : await supabase.from("investments_Alpha_Dine").insert([payload]);
 
       if (error) {
@@ -153,11 +153,10 @@ export function AddAssetModal({
                 }
                 required
                 readOnly={isEditing}
-                className={`w-full border-b border-border py-2 text-sm font-medium outline-none bg-transparent ${
-                  isEditing
+                className={`w-full border-b border-border py-2 text-sm font-medium outline-none bg-transparent ${isEditing
                     ? "opacity-60 cursor-not-allowed border-dashed"
                     : "focus:border-primary"
-                }`}
+                  }`}
               />
             </div>
 
