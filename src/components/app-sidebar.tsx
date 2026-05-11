@@ -53,23 +53,18 @@ export function AppSidebar() {
       collapsible="icon"
       className="border-r border-border bg-secondary/30"
     >
-      <SidebarHeader className="p-6 border-b border-border bg-background">
-        <div className="flex items-center gap-3 group-data-[collapsible=icon]:hidden">
-          <div className="bg-white p-1 rounded-sm border border-slate-100">
-            <Image
-              src="/logo.jpeg"
-              alt="Alphadyne"
-              width={24}
-              height={24}
-              className="object-contain"
-            />
-          </div>
-          <span className="truncate font-bold text-foreground tracking-tight uppercase text-base">
-            Alphadyne
-            <span className="font-light text-primary"> Asset</span>
-          </span>
+      <SidebarHeader className="p-4 border-b border-border bg-background flex items-center justify-between min-h-[72px]">
+        <div className="flex items-center group-data-[collapsible=icon]:hidden">
+          <Image
+            src="/logo.jpeg"
+            alt="Alphadyne Asset Management"
+            width={140}
+            height={36}
+            className="object-contain h-9 w-auto"
+            priority
+          />
         </div>
-        <div className="group-data-[collapsible=icon]:block hidden">
+        <div className="group-data-[collapsible=icon]:flex items-center justify-center w-full">
           <SidebarTrigger className="text-muted-foreground hover:text-primary transition-colors" />
         </div>
       </SidebarHeader>
