@@ -57,7 +57,7 @@ export function AppSidebar() {
         <div className="flex items-center gap-3 group-data-[collapsible=icon]:hidden">
           <div className="bg-white p-1 rounded-sm border border-slate-100">
             <Image
-              src="/aphadyne.jpeg"
+              src="/logo.jpeg"
               alt="Alphadyne"
               width={24}
               height={24}
@@ -84,11 +84,10 @@ export function AppSidebar() {
                   <SidebarMenuButton
                     asChild
                     tooltip={item.title}
-                    className={`py-6 rounded-none transition-all ${
-                      isActive
+                    className={`py-6 rounded-none transition-all ${isActive
                         ? "bg-primary/10 text-primary border-r-4 border-primary"
                         : "text-muted-foreground hover:bg-secondary hover:text-foreground"
-                    }`}
+                      }`}
                   >
                     <Link
                       href={item.url}
@@ -118,11 +117,10 @@ export function AppSidebar() {
               <SidebarMenuItem>
                 <SidebarMenuButton
                   asChild
-                  className={`py-6 rounded-none border-l-2 transition-all ${
-                    pathname === "/dashboard/users"
+                  className={`py-6 rounded-none border-l-2 transition-all ${pathname === "/dashboard/users"
                       ? "bg-primary/10 text-primary border-primary"
                       : "hover:bg-secondary border-transparent hover:border-primary"
-                  }`}
+                    }`}
                 >
                   <Link
                     href="/dashboard/users"
